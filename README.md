@@ -1,6 +1,6 @@
 # Welcome! 
 
-These docs (credentials and criticisms) can hopefully shed some light on what it's like to work with me. At least the flavor, you know?
+These docs (credentials and criticisms) can hopefully shed some light on what I'm like to work with. At least the flavor, you know?
 
 In this folder there's:
 1. Feedback from the writers that I've been lucky enough to work with at Hume. These files start with "Hume_".
